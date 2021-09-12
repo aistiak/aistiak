@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T06:24:59.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" version="14.9.2" etag="sh1YvFQ1ys3PPvhAHZtI" type="github"><diagram id="5Tss5so2kqBzk3BxPJml">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-12T07:18:50.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.44" etag="5dIc6ENszbdnDzyyTz7F" version="14.9.2" type="github">
+  <diagram id="5Tss5so2kqBzk3BxPJml" name="Page-1">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.404;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-1" target="liDsxS9B3cW7MbVfPOiG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-1" value="SignupForm&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-3" target="liDsxS9B3cW7MbVfPOiG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-3" value="CompanyDetail (OnBoarding )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-4" target="liDsxS9B3cW7MbVfPOiG-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-4" value="PaymentForm&lt;br&gt;[&lt;i&gt;paymentForm.tsx file&lt;/i&gt;]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-9" value="New User signup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-14" target="liDsxS9B3cW7MbVfPOiG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-14" value="fill up credit card detail&amp;nbsp;&lt;br&gt;in stripe provided Element component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontColor=#0000CC;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-16" target="liDsxS9B3cW7MbVfPOiG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-16" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="685" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-18" target="liDsxS9B3cW7MbVfPOiG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="create a new payment method object with stripe sdk&amp;nbsp;" tooltip=" const { error, paymentMethod } = await stripe.createPaymentMethod({&#xa;      type: &quot;card&quot;,&#xa;      card: cardElement,&#xa;});" id="liDsxS9B3cW7MbVfPOiG-18">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="630" y="320" width="180" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="createSubscriptionForNewUser &lt;i&gt;[action]&lt;/i&gt;" tooltip="const {id:paymentMethodId} = paymetnMethod // stripObject&#xa;createSubscriptionForNewCustomer(paymetnMethodid, packageId )" id="liDsxS9B3cW7MbVfPOiG-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="630" y="420" width="180" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-31" value="" style="endArrow=classic;html=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="440" as="sourcePoint" />
+            <mxPoint x="330" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-32" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;body {&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; userId ,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; packageId ,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; paymentMethodId&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#0000CC;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-33" value="&lt;font&gt;POST&amp;nbsp; api/create-subscription-for-new-customer&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=10;fontColor=#0000CC;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="490" width="230" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="const {id:paymentMethodId} = paymetnMethod // stripObject&#xa;createSubscriptionForNewCustomer(paymetnMethodid, packageId )" id="liDsxS9B3cW7MbVfPOiG-45">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="70" y="520" width="250" height="410" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-46" value="Lambda&lt;br&gt;CreateSubscriptionForNewCustomer.js" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="170" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-49" target="liDsxS9B3cW7MbVfPOiG-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="retive payment method object from stripe backend with stripe sdk" tooltip="		const paymentMethod = await stripe.paymentMethods.retrieve(paymentMethodId);&#xa;		if (!paymentMethod) {&#xa;			return Responses._400({&#xa;				message: &#39;payment method not found in stripe&#39;,&#xa;			});&#xa;		}" id="liDsxS9B3cW7MbVfPOiG-49">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="590" width="180" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-51" target="liDsxS9B3cW7MbVfPOiG-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Create new stripe customer and attach payment method to customer" tooltip="		const newStripecustomer = await stripe.customers.create({&#xa;			email: userPermission.email,&#xa;			description: &#39;&#39;, // todo need to change this&#xa;			payment_method: paymentMethod.id,&#xa;			invoice_settings: {&#xa;				default_payment_method: paymentMethod.id,&#xa;			},&#xa;		});" id="liDsxS9B3cW7MbVfPOiG-51">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="660" width="180" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="liDsxS9B3cW7MbVfPOiG-52" target="liDsxS9B3cW7MbVfPOiG-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="create a new subscription with 7 days trial with the newly created customer&lt;br&gt;" tooltip="		const subscription = await stripe.subscriptions.create({&#xa;			customer: newStripecustomer.id,&#xa;			items: [{ price: packageId }], // monthly&#xa;			// 7 day trial&#xa;			trial_period_days: 7,&#xa;		});&#xa;" id="liDsxS9B3cW7MbVfPOiG-52">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="730" width="180" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="update in database (&lt;i&gt;dynamoDB&lt;/i&gt;)&lt;br&gt;[ set &lt;b style=&quot;font-style: italic&quot;&gt;customerId &lt;/b&gt;in userPermissions collection ]" tooltip="&#xa;		const res = await Dynamo.update({&#xa;			tableName: &#39;user_permissions&#39;,&#xa;			Key: { userId: userId },&#xa;			UpdateExpression: `set customer_id = :customer_id ,&#xa;							   currentPackage = :currentPackage,&#xa;							   payment_status = :payment_status`,&#xa;			updateValues: {&#xa;				&#39;:customer_id&#39;: newStripecustomer.id,&#xa;				&#39;:currentPackage&#39;: &#39;Professional&#39;,&#xa;				&#39;:payment_status&#39;: &#39;trialing&#39;,&#xa;			},&#xa;		});" id="liDsxS9B3cW7MbVfPOiG-58">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="100" y="810" width="180" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-81" value="login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-85" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#878787;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="580" as="sourcePoint" />
+            <mxPoint x="520" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-86" value="" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#878787;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="520" as="sourcePoint" />
+            <mxPoint x="390" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-87" value="SUCCESS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;rotation=-30;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="435" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="liDsxS9B3cW7MbVfPOiG-88" value="userPermissions has" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fontColor=#00FF00;strokeWidth=3;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
