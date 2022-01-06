@@ -1,1 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T17:56:39.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" version="15.7.1" etag="Cmu4p2zbk067xu8KPsw7" type="github"><diagram id="Isd6XeMD0MXWvQWI7H_F">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-06T18:04:57.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="LtpxM0sCRtNzdDHdQPkH" version="15.7.1" type="github">
+  <diagram id="Isd6XeMD0MXWvQWI7H_F" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KDn5_hQqLYPg25JbXL49-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-1" target="KDn5_hQqLYPg25JbXL49-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-1" value="AdMaker , Audience creations service&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="55" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-2" target="KDn5_hQqLYPg25JbXL49-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="335" />
+              <mxPoint x="640" y="335" />
+              <mxPoint x="640" y="280" />
+              <mxPoint x="709" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-2" value="Campaign creation / draft service&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-3" value="web ui" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-4" target="KDn5_hQqLYPg25JbXL49-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-4" value="launch campaign" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-6" value="mongo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="80" y="260" as="sourcePoint" />
+            <mxPoint x="180" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="250" y="450" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-13" target="KDn5_hQqLYPg25JbXL49-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-13" value="camapgin processor MQ channel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="545" y="570" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-14" target="KDn5_hQqLYPg25JbXL49-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-14" value="campaign processor service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-18" value="notification MQ&amp;nbsp;&lt;br&gt;channel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="690" y="730" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-21" value="." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDn5_hQqLYPg25JbXL49-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDn5_hQqLYPg25JbXL49-22" value="Notification service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="265" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
