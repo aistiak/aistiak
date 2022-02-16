@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T04:26:55.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="AsvyXSOTYXqYaA8u-O6j" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T04:38:50.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="YS5yoZAihDYam4dwn8Ss" version="16.5.6" type="github">
   <diagram id="icjQpoa9YDCWABZU7nxO" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-1" value="front" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="-250" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-3" target="PQ5Z_mYO_5FLwbDRiWJP-4">
           <mxGeometry relative="1" as="geometry" />
@@ -16,74 +16,134 @@
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-3" target="PQ5Z_mYO_5FLwbDRiWJP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=100;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-3" target="PQ5Z_mYO_5FLwbDRiWJP-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-3" value="launch campaign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-4" value="running&amp;nbsp;&lt;br&gt;campaign" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="80" height="80" as="geometry" />
+          <mxGeometry x="120" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-5" target="PQ5Z_mYO_5FLwbDRiWJP-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-5" value="suggestion queue (Dealyed)" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="100" height="60" as="geometry" />
+          <mxGeometry x="-70" y="180" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-6" target="PQ5Z_mYO_5FLwbDRiWJP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-6" value="suggestion engine" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="-60" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-7" target="PQ5Z_mYO_5FLwbDRiWJP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-7" value="notification service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=100;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-8" target="PQ5Z_mYO_5FLwbDRiWJP-9">
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-8" target="PQ5Z_mYO_5FLwbDRiWJP-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-8" value="front" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-9" target="PQ5Z_mYO_5FLwbDRiWJP-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-9" value="Rule Queue" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="120" y="450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-12" target="PQ5Z_mYO_5FLwbDRiWJP-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-12" value="Rule&amp;nbsp;&lt;br&gt;Consumer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-13" target="PQ5Z_mYO_5FLwbDRiWJP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-13" value="notification service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="330" y="700" width="80" height="80" as="geometry" />
+          <mxGeometry y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-14" value="front" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="700" width="80" height="80" as="geometry" />
+          <mxGeometry x="-245" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/sports-outline-24-px/24/Clock_stopwatch_timer_watch_sports-128.png" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="40" height="40" as="geometry" />
+          <mxGeometry x="-40" y="180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Alarm-128.png" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="20" height="20" as="geometry" />
+          <mxGeometry x="160" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-32" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="20" height="20" as="geometry" />
+          <mxGeometry x="-30" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-33" value="if auto aptimization is on then will be added to the rule queue autometically" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="150" height="30" as="geometry" />
+          <mxGeometry x="180" y="400" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simple-lines-filled/32/41_Packman_Game_Character_Leisure_Eat_Smile-128.png" vertex="1" parent="1">
-          <mxGeometry x="490" y="580" width="20" height="20" as="geometry" />
+          <mxGeometry x="160" y="580" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-35" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rule_2;" vertex="1" parent="1">
-          <mxGeometry x="484.61" y="460" width="30.79" height="30" as="geometry" />
+          <mxGeometry x="154.61" y="460" width="30.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Alarm-128.png" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_face_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="-225" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_face_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="325" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_face_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="-220" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-41" target="PQ5Z_mYO_5FLwbDRiWJP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-41" value="rule publisher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-44" target="PQ5Z_mYO_5FLwbDRiWJP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-44" value="explicit rule queue/publisher" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/carnival-filled-line/32/circus_tent_circus_show_tent_marquee_carnival-128.png" vertex="1" parent="1">
+          <mxGeometry x="-215" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-47" target="PQ5Z_mYO_5FLwbDRiWJP-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-47" value="Rule&amp;nbsp;&lt;br&gt;Consumer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/simple-lines-filled/32/41_Packman_Game_Character_Leisure_Eat_Smile-128.png" vertex="1" parent="1">
+          <mxGeometry x="-215" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQ5Z_mYO_5FLwbDRiWJP-50" target="PQ5Z_mYO_5FLwbDRiWJP-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-50" value="notification service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Alarm-128.png" vertex="1" parent="1">
+          <mxGeometry x="-215" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="930" as="sourcePoint" />
+            <mxPoint x="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-55" value="&lt;b style=&quot;font-size: 48px;&quot;&gt;Suggestion&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#66FF66;fontSize=48;textOpacity=30;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PQ5Z_mYO_5FLwbDRiWJP-56" value="&lt;b style=&quot;font-size: 48px&quot;&gt;Explicit&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#66FF66;fontSize=48;textOpacity=30;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="150" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
